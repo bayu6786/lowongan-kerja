@@ -1,4 +1,4 @@
-# cara menjalankan lowongan-kerja
+# cara menjalankan lowongan-kerja (brach satunya)
 - Gunakan Laragon lalu aktifkan mysql dan apache
 - run perintah php artisan migrate
 - run perintah npm run build
